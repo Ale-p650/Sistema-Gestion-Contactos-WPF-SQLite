@@ -1,0 +1,20 @@
+﻿WpfApp2
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\
+WpfApp2
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\Visual Studio\Sistema Gestion Contactos\App.xaml
+61706427770
+
+1169963773
+199352633491
+MainWindow.xaml;ventanaBorraContacto.xaml;ventanaContacto.xaml;ventanaEditarContacto.xaml;ventanaListaContactos.xaml;ventanaUpdate.xaml;
+
+False
+

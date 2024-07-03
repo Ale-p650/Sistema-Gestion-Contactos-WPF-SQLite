@@ -1,0 +1,100 @@
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaContacto.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.lref
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaContacto.baml
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\SQLite-net.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Visual Studio\WpfApp2\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaListaContactos.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaListaContactos.baml
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaBorraContacto.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaBorraContacto.baml
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaEditarContacto.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaEditarContacto.baml
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaUpdate.g.cs
+D:\Visual Studio\WpfApp2\obj\Debug\net6.0-windows\ventanaUpdate.baml
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\WpfApp2.exe
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\WpfApp2.deps.json
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\WpfApp2.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\WpfApp2.pdb
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\SQLite-net.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Visual Studio\Sistema Gestion Contactos\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaBorraContacto.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaContacto.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaEditarContacto.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaListaContactos.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaUpdate.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.lref
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaBorraContacto.baml
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaContacto.baml
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaEditarContacto.baml
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaListaContactos.baml
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ventanaUpdate.baml
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.g.resources
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.dll
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.pdb
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+D:\Visual Studio\Sistema Gestion Contactos\obj\Debug\net6.0-windows\ref\WpfApp2.dll

@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp2.ventanaBorraContacto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="ventanaBorraContacto" Height="450" Width="800">
+    
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+            <TextBox Grid.Row="0" x:Name="barraBusca" TextChanged="barraBusca_TextChanged" Height="30" Margin="23,21,23,0" Background="White" BorderThickness="2" ></TextBox>
+        <ListView Grid.Row="1" x:Name="lista" Margin="20" SelectionChanged="lista_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Nombre" Width="auto" DisplayMemberBinding="{Binding nombre}" />
+                    <GridViewColumn Header="Mail" Width="auto" DisplayMemberBinding="{Binding mail}" />
+                    <GridViewColumn Header="Telefono" Width="auto" DisplayMemberBinding="{Binding telefono}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="botonBorra" Grid.Row="2" Width="150" Height="65" 
+                Content="Borrar Contacto" IsEnabled="False" Click="botonBorra_Click">
+
+        </Button>
+    </Grid>
+    
+</Window>
